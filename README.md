@@ -1,2 +1,2 @@
-# Learning MERN
+# Learning React
  
